@@ -20,7 +20,6 @@ import {
     CarouselContent,
     CarouselItem,
     CarouselNext,
-    CarouselPrevious,
 } from "@/components/ui/carousel"
 
 // import { Link } from 'lucide-react';
