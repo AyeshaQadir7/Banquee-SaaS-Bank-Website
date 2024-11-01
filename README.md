@@ -1,6 +1,6 @@
 # Banquee
 
-![Banquee Preview](assets/banquee.png)
+![Banquee Preview](public/assets/banquee.png)
 
 Welcome to *Banquee*! A SaaS & banking website. This project is a modern and elegant website built to provide a seamless banking experience, focusing on design and user experience.
 
