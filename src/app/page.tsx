@@ -134,7 +134,7 @@ export default function Home() {
                             </h2>
 
                             {/* Features Grid */}
-                            <div className="grid grid-cols-2 md:grid-cols-2 md:gap-8 gap-6">
+                            <div className="grid grid-cols-1 md:grid-cols-2 md:gap-8 gap-6">
 
                                 <div className='border-2 rounded-2xl border-MutedGray p-6'>
                                     <i className="fa-solid fa-bolt bg-PaleGreen text-MintGreen text-2xl p-3 rounded-full"></i>
